@@ -1,0 +1,4 @@
+activeProfiles=f8-build, f8-deploy, f8-local-deploy, jboss-eap-quickstarts, jboss-public-repository, java-net-public, repository-apache-org, com-springsource-repository-bundles-external, bintray, com-springsource-repository-bundles-release, redhat-ga-repository, maven-repository
+eclipse.preferences.version=1
+resolveWorkspaceProjects=true
+version=1
